@@ -1,0 +1,56 @@
+{"developers": [{
+    "developerid":1,
+    "name": "Code With Harry",
+    "skills": ["HTML","CSS","JavaScript","C","C++","Java","Python","PHP","ReactJS"],
+    "email": "harry@codewithharry.com",
+    "website": "https://www.codewithharry.com/",
+    "youtube": "https://www.youtube.com/@CodeWithHarry/featured",
+    "basedin": "India",
+    "year":2018,
+    "active": true
+      
+  },
+  {
+    "developerid":2,
+    "name": "Telusko",
+    "skills": ["Java", "Python", "Android", "Blockchain", "JavaScript", "Kotlin", "Scala", "Spring Framework", "Hibernate", "C programming", "Data Structures", "Networking", "REST API"],
+    "email": "connect@telusko.com",
+    "website": "https://telusko.com/",
+    "youtube": "https://www.youtube.com/@Telusko/featured",
+    "basedin": "India",
+    "year":2014,
+    "active": true
+  },
+  {
+    "developerid":3,
+    "name": "Programming With Mosh",
+    "skills": ["HTML","CSS","JavaScript","React","C++","Java","Python","SQL","TypeScript","Django","React Native","Docker","Git","Data Structures &Algorithm","C#","Redux","Node.js","Angular","ASP.NET"],
+    "email": "programmingwithmosh@gmail.com",
+    "website": "https://codewithmosh.com/",
+    "youtube": "https://www.youtube.com/@programmingwithmosh/featured",
+    "basedin": "Australia",
+    "year":2014,
+    "active": true
+  },
+  {
+    "developerid":4,
+    "name": "Tech With Tim",
+    "skills": ["Python Programming","Game Development with Python","Machine Learning with Python","Python Neural Networks","Django","Discord.py","Python AI Chat Bot","Flask Web Development","Java Programming"],
+    "email": "techwithtim@viralnationtalent.com",
+    "website": "https://www.techwithtim.net/",
+    "youtube": "https://www.youtube.com/@TechWithTim/featured",
+    "basedin": "Canada",
+    "year":2014,
+    "active": true
+  },
+  {
+    "developerid":5,
+    "name": "Byte By Byte",
+    "skills": ["Data Structures and Algorithms", "Coding Interview Preparation","System Design","Dynamic Programming","Recursion"],
+    "email": "ssupport@byte-by-byte.com",
+    "website": "https://www.byte-by-byte.com/",
+    "youtube": "https://www.youtube.com/@ByteByByte",
+    "basedin": "United States",
+    "year":2015,
+    "active": false
+  }]}
