@@ -35,9 +35,12 @@ const server = http.createServer(async (req,res)=>{
 
                 res.setHeader('Access-Control-Allow-Origin', '*');
                 res.setHeader('Content-Type','application/json');
-                // res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+                
 
                 res.end(JSON.stringify(result));
+                
+                
+            
                    
             }
             catch(e){
@@ -59,10 +62,8 @@ const server = http.createServer(async (req,res)=>{
             res.end("<h1> 404 Nothing Found </h1>");
         }
 
-
-
 })
+
 const PORT= process.env.PORT || 5050;
 
 server.listen(PORT,()=> console.log(`Yaayy server is running on port ${PORT}`));
-
